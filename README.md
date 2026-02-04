@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuCheng!
+- 👋 Hi, I’m @Kayou!
 - 🎓 I'm major in computer science.
 - 🌱 I’m researching AI Agents.
 - 📫 How to reach me: iqubitter@gmail.com
