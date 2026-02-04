@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuCheng!
 - 🎓 I'm major in computer science.
-- 🌱 I’m currently learning steganography.
+- 🌱 I’m researching AI Agents.
 - 📫 How to reach me: iqubitter@gmail.com
 
 <!---
